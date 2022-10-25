@@ -1,0 +1,14 @@
+-VARIABLES
+En Java Script es una forma de almacenar el valor de algo para luego darle algun uso. Algo que puede modificarse.
+
+-STRINGS
+Es un tipo de dato conformado por cadena o bloque de textos
+
+-FUNCIONES(ARGUMENTOS, RETURN)
+Son tipos de objetos que realizan alguna operacion con las variables para modificarlas o hacer algo con ellas. El argumento es la variable con la que va a trabajar la funcion. Y "return" es la devolucion de los datos que la funcion a calculado o modificado, y a lo unico que se puede acceder de ella.
+
+-DECLARACIONES IF
+Es un mecanismo que tiene la funcion para verificar si algo es verdadero o falso, actuar en funcion del resultado.
+
+-VALORES BOOLEANOS (TRUE, FALSE) 
+Es un tipo de dato de dos opciones, que puede ser true o false (verdadero o falso). Se usa para indicar si algo es verdadero o falso, 0 o 1, si o no, informacio que unicamente puede tener 2 estados.
