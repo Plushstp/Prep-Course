@@ -1,0 +1,10 @@
+FOR:
+
+Es una palabra clave que sirve para ejecutar un codigo de forma repetida. Para ello evalua unas expresiones que se deben cumplir para seguir la ejecucion del bucle, y se detiene cuando no se cumple la expresion. Cuenta con tres partes, una es una variable con un valor incial, segundo la condicion que debe cumplir la variable, y tercero como se incrementa esa variable. Estas partes esta dentro de partentesis, y seguido unas llaves con el codigo que ejecutara. Cuando la condicion no se cumple el codigo dentro de las llaves no se ejecuta.
+
+&&, ||, !
+
+Son operadores logicos que se usan para evaluar expresiones. 
+El operador && o "AND" ("Y") evalua dos expresiones y devuelve true o false. Para que devuelva true la primera y la segunda expresion deben ser verdaderas, si una de ellas es falsa o ambas son falsas devuelve false.
+El operador || o "OR" ("O") evalua dos expresiones y devuelve true o false. Para que devuelva false la primera y la segunda expresion deben ser falsas, si una de ellas es verdadera o ambas son verdaderas devuelve true.
+El operador ! o "NOT" ("NO") niega la expresion, es decir devuelve el opuesto. Por ejemplo si la expresion es true y se usa el operador en ella !true devuelve false.
