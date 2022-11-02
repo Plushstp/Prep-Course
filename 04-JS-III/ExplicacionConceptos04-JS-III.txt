@@ -1,0 +1,9 @@
+ARRAY:
+
+Arreglos, son contenedores para muchos tipos de datos. Estos se crean con una variable y su contenido entre []. Cada dato se agrega separados por coma.
+Posee un indice que inicia en 0 y sirve para cuando queremos recuperar un dato de una posicion especifica. Tiene un metodo incorporado .length que al igual que los string nos permite conocer cuantos elementos tiene el Array. Dentro del array pueden haber diferentes tipos de datos como numeros, cadenas, booleanos, funciones, otros array, null y undefined.
+Para acceder a un dato especifico se usa nombreArray[posicion] por ej. nombres[1] //Luis suponiendo que el array tiene nombres=[Juan , Luis]
+Para asignar un dato  en el array se usa nombreArray[posicion]=dato por ej. nombre[1]=Pedro //quedaria nombres=[Juan , Pedro]
+Hay otros metodos como .push, .pop, .unshift y .shift. Push agrega un nuevo dato al final del array incrementando su longitud. En cambio .pop elimina el ultimo dato del array decrementando su longitud. Unshift hace lo mismo que push pero al principio del array y shift es igual a pop pero tambien al principio del array.
+
+Por ultimo se puede usar bucles For o While para recorrer los array haciendo uso del metodo .length para que cumpla la condicion en los bucles.
