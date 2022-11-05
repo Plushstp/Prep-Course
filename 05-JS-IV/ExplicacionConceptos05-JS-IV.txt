@@ -1,0 +1,14 @@
+* Objetos
+Los Objetos son otro tipo de contenedores de datos, como los array, pero que se diferencian porque los objetos tienen mucha informacion sobre una sola cosa.
+
+* Propiedades
+Las propiedades son asociaciones entre un nombre, tambien llamado KEY o Clave y un valor o Value. El nombre es el indetificador, y el valor es el dato que queremos guardar en ese nombre. Los objetos pueden tener muchas claves, con un unico nombre, ya que son unicas. Y los valores pueden ser de todo tipo, como cadenas, numeros, booleanos, funciones, array y hasta otros objetos.
+
+* Métodos
+Las funciones guardadas en los objetos se conocen como metodos. Para usar los metodos, es igual que las funciones usando nombre del objeto un punto, el nombre del metodo y parentesis al final. Tambien se puede recibir argumentos al igual que las funciones.
+
+* Bucle `for…in`
+Como los objetos no tienen indice numerico como los array, se usa un bucle especial con la palabra clave "in" para poder iterar sobre cada para clave valor que tiene el objeto. Con este bucle se puede recorrer todas las clave valor del objeto.
+
+* Notación de puntos vs notación de corchetes
+Notacion de punto es una forma de acceder a una propiedad de forma mas sencilla ya que solo se usa el objeto.nombreClave, pero si necesitamos usar en algun momento variables con las claves, la forma para acceder sera con notacion de corchetes objeto['nombreClave'].
