@@ -1,0 +1,5 @@
+* `prototype`
+Es una forma de crear un metodo para una clase una sola vez, que luego puede ser utilizado por varios objetos de esa clase.
+
+* _Constructors_ (de Clases)
+Es un metodo especial que permite crear un objeto a partir de una clase. Solo puede haber un solo metodo con el nombre constructor.
