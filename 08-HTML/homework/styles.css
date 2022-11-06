@@ -1,0 +1,35 @@
+body {
+  background-image: url("el-lomito.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: contain;
+  background-position: center;
+}
+h1 {
+  color: dodgerblue;
+}
+img {
+  width: 400px;
+}
+.divClass {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#thirdDiv {
+  position: absolute;
+  top:25%;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  background-color: orange;
+  heigth: 600px;
+  width: 500px;
+  padding: 50px;
+  border: 5px solid dodgerblue;
+}
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
