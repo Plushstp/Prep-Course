@@ -1,0 +1,2 @@
+* Funciones Callback
+Es una capacidad de Javascript de poder pasar una funcion como argumento de otra funcion, que luego se invoca dentro de una funcion externa para poder completar alguna accion especifica.
